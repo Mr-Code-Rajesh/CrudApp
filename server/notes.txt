@@ -1,11 +1,11 @@
 1. create seprate Server folder  -> md server
 2. npm init -y
 3. npm i express cors
-4. developer dependicy package : npm i nodemon -D -> it's automatically refresh the data 
+4. developer dependicy package : npm i nodemon -D    -> it's automatically refresh the data 
 
 // front end 
 1. npm create vite@latest
 2. tailwind css -> open tailwind offcial page follow the all steps to do.
-3. npm i axios -> for using to fetch the data 
+3. npm i axios -> for using to fetch the data   ( fast and short syntax to get json format data ) 
 
-https://github.com/Mr-Code-Rajesh/CrudApp.git
+Server start command : npm start 
